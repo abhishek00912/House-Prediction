@@ -29,7 +29,7 @@ House-Prediction/
 │
 ├── data/
 │   └── train.csv
-│   └── house_price_clean.csv
+│   └── house_price_cleaned.csv
 ├── 01_eda.ipynb
 ├── 02_data_cleaning.ipynb
 ├── 03_model_building.ipynb
